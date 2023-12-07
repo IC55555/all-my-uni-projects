@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Dif lab 4\Source.cpp(24,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Dif lab 4\Source.cpp(46,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Dif lab 4\Source.cpp(71,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Dif lab 4\Source.cpp(96,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Dif lab 4\Source.cpp(116,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Dif lab 4\Source.cpp(133,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Dif lab 4\Source.cpp(194,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  Dif lab 4.vcxproj -> C:\Users\miky_\source\repos\Dif lab 4\Debug\Dif lab 4.exe

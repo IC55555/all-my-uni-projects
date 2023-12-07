@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Digital models and valuation of parameters\Source.cpp(219,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\Digital models and valuation of parameters\Source.cpp(599,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\Digital models and valuation of parameters\Source.cpp(607,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\Digital models and valuation of parameters\Source.cpp(848,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Digital models and valuation of parameters.vcxproj -> C:\Users\miky_\source\repos\Digital models and valuation of parameters\Debug\Digital models and valuation of parameters.exe
