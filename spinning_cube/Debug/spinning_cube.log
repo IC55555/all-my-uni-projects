@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\spinning_cube\Source.cpp(61,6): warning C4215: нестандартное расширение: long float
+C:\Users\miky_\source\repos\spinning_cube\Source.cpp(62,6): warning C4215: нестандартное расширение: long float
+C:\Users\miky_\source\repos\spinning_cube\Source.cpp(63,6): warning C4215: нестандартное расширение: long float
+  spinning_cube.vcxproj -> C:\Users\miky_\source\repos\spinning_cube\Debug\spinning_cube.exe
