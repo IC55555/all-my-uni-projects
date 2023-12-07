@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\DMaAoP\Source.cpp(224,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\DMaAoP\Source.cpp(580,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\DMaAoP\Source.cpp(588,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\DMaAoP\Source.cpp(803,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miky_\source\repos\DMaAoP\Source.cpp(806,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DMaAoP.vcxproj -> C:\Users\miky_\source\repos\DMaAoP\Debug\DMaAoP.exe

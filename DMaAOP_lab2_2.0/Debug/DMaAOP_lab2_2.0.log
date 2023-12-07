@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\DMaAOP_lab2_2.0\Source.cpp(124,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  DMaAOP_lab2_2.0.vcxproj -> C:\Users\miky_\source\repos\DMaAOP_lab2_2.0\Debug\DMaAOP_lab2_2.0.exe
