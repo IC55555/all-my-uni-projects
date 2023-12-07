@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(8989,1): warning C4005: DELETE: изменение макроопределения
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(19): message : см. предыдущее определение "DELETE"
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(80,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(92,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(101,6): warning C4101: y: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(109,6): warning C4101: y: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(117,6): warning C4101: x: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(125,6): warning C4101: x: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(200,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(359,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\OpenGL_lab1\Source.cpp(468,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OpenGL_lab1.vcxproj -> C:\Users\miky_\source\repos\OpenGL_lab1\Debug\OpenGL_lab1.exe
