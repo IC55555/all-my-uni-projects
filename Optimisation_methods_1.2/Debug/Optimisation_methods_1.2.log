@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Optimisation_methods_1.2\Source.cpp(168,33): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+  Optimisation_methods_1.2.vcxproj -> C:\Users\miky_\source\repos\Optimisation_methods_1.2\Debug\Optimisation_methods_1.2.exe

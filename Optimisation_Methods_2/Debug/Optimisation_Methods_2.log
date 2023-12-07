@@ -1,0 +1,7 @@
+﻿  Pirson3Method.cpp
+C:\Users\miky_\source\repos\Optimisation_Methods_2\Pirson3Method.cpp(324,33): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+  Optimisation_Methods_2.vcxproj -> C:\Users\miky_\source\repos\Optimisation_Methods_2\Debug\Optimisation_Methods_2.exe

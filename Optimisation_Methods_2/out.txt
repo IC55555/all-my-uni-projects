@@ -1,0 +1,5 @@
+2	 	7	1	0
+Pirson method
+Iterations: 2
+Result: 7	1
+FUNC: 0

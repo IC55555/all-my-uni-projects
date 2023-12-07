@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Optimisation_methods_3\Source.cpp(52,2): warning C4809: в операторе switch имеется ненужная метка "default"; все возможные метки "case" уже заданы
+C:\Users\miky_\source\repos\Optimisation_methods_3\Source.cpp(80,2): warning C4809: в операторе switch имеется ненужная метка "default"; все возможные метки "case" уже заданы
+C:\Users\miky_\source\repos\Optimisation_methods_3\Source.cpp(96,2): warning C4809: в операторе switch имеется ненужная метка "default"; все возможные метки "case" уже заданы
+C:\Users\miky_\source\repos\Optimisation_methods_3\Source.cpp(111,2): warning C4809: в операторе switch имеется ненужная метка "default"; все возможные метки "case" уже заданы
+  Optimisation_methods_3.vcxproj -> C:\Users\miky_\source\repos\Optimisation_methods_3\Debug\Optimisation_methods_3.exe
