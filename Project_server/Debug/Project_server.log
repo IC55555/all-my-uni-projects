@@ -1,0 +1,8 @@
+﻿  ShooterClient.cpp
+C:\Users\miky_\source\repos\Project_server\ShooterClient.cpp(5,10): fatal error C1083: Не удается открыть файл включение: ShooterClient.h: No such file or directory,
+  ShooterMsgType.cpp
+C:\Users\miky_\source\repos\Project_server\ShooterMsgType.h(8,10): fatal error C1083: Не удается открыть файл включение: SFML/Network.hpp: No such file or directory,
+  ShooterServer.cpp
+C:\Users\miky_\source\repos\Project_server\ShooterServer.h(8,10): fatal error C1083: Не удается открыть файл включение: ../engine/network/ServerUDP.h: No such file or directory,
+  Source.cpp
+  Создание кода...
