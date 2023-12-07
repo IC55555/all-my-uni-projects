@@ -1,0 +1,2 @@
+C:\Users\miky_\source\repos\Optimization_methods_project1.1\Debug\Optimization_methods_project1.1.exe
+C:\Users\miky_\source\repos\Optimization_methods_project1.1\Debug\Optimization_methods_project1.1.pdb
