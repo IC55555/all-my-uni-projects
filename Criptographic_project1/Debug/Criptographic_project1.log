@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Criptographic_project1\Converter.h(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\Criptographic_project1\Converter.h(58,26): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Criptographic_project1\Converter.h(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\Criptographic_project1\Source.cpp(103,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\Criptographic_project1\Source.cpp(111,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Criptographic_project1.vcxproj -> C:\Users\miky_\source\repos\Criptographic_project1\Debug\Criptographic_project1.exe

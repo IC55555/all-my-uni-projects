@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Crypto_project4/1.0.0": {
+        "runtime": {
+          "Crypto_project4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crypto_project4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

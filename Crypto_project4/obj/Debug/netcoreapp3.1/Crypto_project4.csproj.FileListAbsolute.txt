@@ -1,0 +1,13 @@
+C:\Users\miky_\source\repos\Crypto_project4\bin\Debug\netcoreapp3.1\Crypto_project4.exe
+C:\Users\miky_\source\repos\Crypto_project4\bin\Debug\netcoreapp3.1\Crypto_project4.deps.json
+C:\Users\miky_\source\repos\Crypto_project4\bin\Debug\netcoreapp3.1\Crypto_project4.runtimeconfig.json
+C:\Users\miky_\source\repos\Crypto_project4\bin\Debug\netcoreapp3.1\Crypto_project4.runtimeconfig.dev.json
+C:\Users\miky_\source\repos\Crypto_project4\bin\Debug\netcoreapp3.1\Crypto_project4.dll
+C:\Users\miky_\source\repos\Crypto_project4\bin\Debug\netcoreapp3.1\Crypto_project4.pdb
+C:\Users\miky_\source\repos\Crypto_project4\obj\Debug\netcoreapp3.1\Crypto_project4.csprojAssemblyReference.cache
+C:\Users\miky_\source\repos\Crypto_project4\obj\Debug\netcoreapp3.1\Crypto_project4.AssemblyInfoInputs.cache
+C:\Users\miky_\source\repos\Crypto_project4\obj\Debug\netcoreapp3.1\Crypto_project4.AssemblyInfo.cs
+C:\Users\miky_\source\repos\Crypto_project4\obj\Debug\netcoreapp3.1\Crypto_project4.csproj.CoreCompileInputs.cache
+C:\Users\miky_\source\repos\Crypto_project4\obj\Debug\netcoreapp3.1\Crypto_project4.dll
+C:\Users\miky_\source\repos\Crypto_project4\obj\Debug\netcoreapp3.1\Crypto_project4.pdb
+C:\Users\miky_\source\repos\Crypto_project4\obj\Debug\netcoreapp3.1\Crypto_project4.genruntimeconfig.cache
