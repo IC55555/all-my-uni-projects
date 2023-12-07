@@ -1,0 +1,17 @@
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).exe
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).deps.json
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).runtimeconfig.json
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).runtimeconfig.dev.json
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).dll
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).pdb
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\obj\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).csprojAssemblyReference.cache
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\obj\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).AssemblyInfoInputs.cache
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\obj\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).AssemblyInfo.cs
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\obj\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).dll
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\obj\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).pdb
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\obj\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).genruntimeconfig.cache
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\obj\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).csproj.CoreCompileInputs.cache
+C:\Users\miky_\source\repos\Cryptographic_project_2(El Gamal)\obj\Debug\netcoreapp3.1\Cryptographic_project_2(El Gamal).csproj.CopyComplete

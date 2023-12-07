@@ -1,0 +1,10 @@
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\bin\Debug\Cryptographic_project2.0(EL Gamal).exe.config
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\bin\Debug\Cryptographic_project2.0(EL Gamal).exe
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\bin\Debug\Cryptographic_project2.0(EL Gamal).pdb
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\obj\Debug\Cryptographic_project2.0(EL Gamal).csprojAssemblyReference.cache
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\obj\Debug\Cryptographic_project2._0_EL_Gamal_.Form1.resources
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\obj\Debug\Cryptographic_project2._0_EL_Gamal_.Properties.Resources.resources
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\obj\Debug\Cryptographic_project2.0(EL Gamal).csproj.GenerateResource.cache
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\obj\Debug\Cryptographic_project2.0(EL Gamal).csproj.CoreCompileInputs.cache
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\obj\Debug\Cryptographic_project2.0(EL Gamal).exe
+C:\Users\miky_\source\repos\Cryptographic_project2.0(EL Gamal)\obj\Debug\Cryptographic_project2.0(EL Gamal).pdb
