@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\kursovik_v3.2\Source.cpp(242,11): warning C4101: div: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\kursovik_v3.2\Source.cpp(240,11): warning C4101: f: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\kursovik_v3.2\Source.cpp(539,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miky_\source\repos\kursovik_v3.2\Source.cpp(25): warning C4715: function: значение возвращается не при всех путях выполнения
+C:\Users\miky_\source\repos\kursovik_v3.2\Source.cpp(234): warning C4715: psi: значение возвращается не при всех путях выполнения
+C:\Users\miky_\source\repos\kursovik_v3.2\Source.cpp(64): warning C4715: elems::limit: значение возвращается не при всех путях выполнения
+  kursovik_v3.2.vcxproj -> C:\Users\miky_\source\repos\kursovik_v3.2\Debug\kursovik_v3.2.exe
