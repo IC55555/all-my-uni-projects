@@ -1,0 +1,2 @@
+C:\Users\miky_\source\repos\Chat_client(OS_3)\Debug\Chat_client(OS_3).exe
+C:\Users\miky_\source\repos\Chat_client(OS_3)\Debug\Chat_client(OS_3).pdb
