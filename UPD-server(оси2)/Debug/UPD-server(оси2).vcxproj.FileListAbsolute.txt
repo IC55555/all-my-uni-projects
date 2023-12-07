@@ -1,0 +1,2 @@
+C:\Users\miky_\source\repos\UPD-server(оси2)\Debug\UPD-server(оси2).exe
+C:\Users\miky_\source\repos\UPD-server(оси2)\Debug\UPD-server(оси2).pdb

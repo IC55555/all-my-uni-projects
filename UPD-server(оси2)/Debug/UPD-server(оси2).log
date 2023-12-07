@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\miky_\source\repos\UPD-server(оси2)\Source.cpp(118,9): warning C4101: buff: неиспользованная локальная переменная
+  UPD-server(оси2).vcxproj -> C:\Users\miky_\source\repos\UPD-server(оси2)\Debug\UPD-server(оси2).exe
