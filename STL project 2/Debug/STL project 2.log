@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\STL project 2\Source.cpp(20,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\STL project 2\Source.cpp(27,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\STL project 2\Source.cpp(38,22): warning C4018: <: несоответствие типов со знаком и без знака
+  STL project 2.vcxproj -> C:\Users\miky_\source\repos\STL project 2\Debug\STL project 2.exe
