@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Numerical_simulation2\Source.cpp(16,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Numerical_simulation2\Source.cpp(76,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\Numerical_simulation2\Source.cpp(83,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  Numerical_simulation2.vcxproj -> C:\Users\miky_\source\repos\Numerical_simulation2\Debug\Numerical_simulation2.exe
