@@ -1,0 +1,122 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(349,1): warning C4244: +=: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(539,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(558,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(571,10): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(692,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(693,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(697,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(699,12): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(700,12): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(706,13): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(707,13): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(728,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(729,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(733,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(761,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(762,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(766,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(778,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(779,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(785,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(794,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(795,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(799,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(809,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(810,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(814,11): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(827,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP_course\Source.cpp(894,29): warning C4018: <: несоответствие типов со знаком и без знака
+  EoMP_course.vcxproj -> C:\Users\miky_\source\repos\EoMP_course\Debug\EoMP_course.exe

@@ -1,0 +1,2 @@
+C:\Users\miky_\source\repos\EoMP_lab2\Debug\EoMP_lab2.exe
+C:\Users\miky_\source\repos\EoMP_lab2\Debug\EoMP_lab2.pdb
