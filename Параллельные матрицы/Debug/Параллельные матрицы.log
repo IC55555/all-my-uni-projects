@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Параллельные матрицы\Source.cpp(31,34): error C2065: С: необъявленный идентификатор
+C:\Users\miky_\source\repos\Параллельные матрицы\Source.cpp(31,1): error C3016: k: переменная индекса в операторе For директивы OpenMP должна иметь тип целого со знаком
+C:\Users\miky_\source\repos\Параллельные матрицы\Source.cpp(41,34): error C2065: С: необъявленный идентификатор
+C:\Users\miky_\source\repos\Параллельные матрицы\Source.cpp(41,1): error C3016: k: переменная индекса в операторе For директивы OpenMP должна иметь тип целого со знаком

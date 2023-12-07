@@ -1,0 +1,2 @@
+C:\Users\miky_\source\repos\Параллельные матрицы\Debug\Параллельные матрицы.exe
+C:\Users\miky_\source\repos\Параллельные матрицы\Debug\Параллельные матрицы.pdb
