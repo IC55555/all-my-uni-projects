@@ -1,0 +1,10 @@
+C:\Users\miky_\source\repos\buffering_project\bin\Debug\buffering_project.exe.config
+C:\Users\miky_\source\repos\buffering_project\bin\Debug\buffering_project.exe
+C:\Users\miky_\source\repos\buffering_project\bin\Debug\buffering_project.pdb
+C:\Users\miky_\source\repos\buffering_project\obj\Debug\buffering_project.csprojAssemblyReference.cache
+C:\Users\miky_\source\repos\buffering_project\obj\Debug\buffering_project.Properties.Resources.resources
+C:\Users\miky_\source\repos\buffering_project\obj\Debug\buffering_project.csproj.GenerateResource.cache
+C:\Users\miky_\source\repos\buffering_project\obj\Debug\buffering_project.csproj.CoreCompileInputs.cache
+C:\Users\miky_\source\repos\buffering_project\obj\Debug\buffering_project.exe
+C:\Users\miky_\source\repos\buffering_project\obj\Debug\buffering_project.pdb
+C:\Users\miky_\source\repos\buffering_project\obj\Debug\buffering_project.Form1.resources

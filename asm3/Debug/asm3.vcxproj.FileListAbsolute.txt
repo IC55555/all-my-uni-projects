@@ -1,0 +1,2 @@
+C:\Users\miky_\source\repos\asm3\Debug\asm3.exe
+C:\Users\miky_\source\repos\asm3\Debug\asm3.pdb
