@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Translation_methods 2\Source.cpp(67,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\Translation_methods 2\Source.cpp(490,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\Translation_methods 2\Source.cpp(506,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miky_\source\repos\Translation_methods 2\Source.cpp(417): warning C4715: Lexeme::createTokens: значение возвращается не при всех путях выполнения
+  Translation_methods 2.vcxproj -> C:\Users\miky_\source\repos\Translation_methods 2\Debug\Translation_methods 2.exe
