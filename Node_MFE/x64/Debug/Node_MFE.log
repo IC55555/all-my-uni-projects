@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\55555\source\repos\Node_MFE\inverse.h(107,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\55555\source\repos\Node_MFE\inverse.h(81,1): message : во время компиляции функции-члена класс шаблон "void inverse<parameter_power_2>::read_sensors(void)"
+C:\Users\55555\source\repos\Node_MFE\inverse.h(203,14): message : см. первую ссылку на "inverse<parameter_power_2>::read_sensors" в "inverse<parameter_power_2>::calc"
+C:\Users\55555\source\repos\Node_MFE\main.cpp(193,10): message : см. первую ссылку на "inverse<parameter_power_2>::calc" в "main"
+C:\Users\55555\source\repos\Node_MFE\inverse.h(175,1): message : во время компиляции функции-члена класс шаблон "inverse<parameter_power_2>::inverse(void)"
+C:\Users\55555\source\repos\Node_MFE\main.cpp(192,29): message : см. первую ссылку на "inverse<parameter_power_2>::inverse" в "main"
+C:\Users\55555\source\repos\Node_MFE\inverse.h(114,49): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "inverse<parameter_power_2>"
+  Node_MFE.vcxproj -> C:\Users\55555\source\repos\Node_MFE\x64\Debug\Node_MFE.exe
