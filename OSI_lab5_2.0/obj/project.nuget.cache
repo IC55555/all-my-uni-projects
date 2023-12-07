@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWMJ9T4Sa+vl3NbiOwMTVEdgg0luZJ2+cODzF3O7YkHx7uoACzvTdcDhwWp2Sb13vYLa5XvcHqCBLIwtvxJa7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miky_\\source\\repos\\OSI_lab5_2.0\\OSI_lab5_2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miky_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

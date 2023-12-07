@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OSI_lab5_2.0/1.0.0": {
+        "runtime": {
+          "OSI_lab5_2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSI_lab5_2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

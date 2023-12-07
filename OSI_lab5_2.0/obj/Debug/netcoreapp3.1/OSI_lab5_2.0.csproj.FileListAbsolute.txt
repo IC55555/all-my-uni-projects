@@ -1,0 +1,13 @@
+C:\Users\miky_\source\repos\OSI_lab5_2.0\bin\Debug\netcoreapp3.1\OSI_lab5_2.0.exe
+C:\Users\miky_\source\repos\OSI_lab5_2.0\bin\Debug\netcoreapp3.1\OSI_lab5_2.0.deps.json
+C:\Users\miky_\source\repos\OSI_lab5_2.0\bin\Debug\netcoreapp3.1\OSI_lab5_2.0.runtimeconfig.json
+C:\Users\miky_\source\repos\OSI_lab5_2.0\bin\Debug\netcoreapp3.1\OSI_lab5_2.0.runtimeconfig.dev.json
+C:\Users\miky_\source\repos\OSI_lab5_2.0\bin\Debug\netcoreapp3.1\OSI_lab5_2.0.dll
+C:\Users\miky_\source\repos\OSI_lab5_2.0\bin\Debug\netcoreapp3.1\OSI_lab5_2.0.pdb
+C:\Users\miky_\source\repos\OSI_lab5_2.0\obj\Debug\netcoreapp3.1\OSI_lab5_2.0.csprojAssemblyReference.cache
+C:\Users\miky_\source\repos\OSI_lab5_2.0\obj\Debug\netcoreapp3.1\OSI_lab5_2.0.AssemblyInfoInputs.cache
+C:\Users\miky_\source\repos\OSI_lab5_2.0\obj\Debug\netcoreapp3.1\OSI_lab5_2.0.AssemblyInfo.cs
+C:\Users\miky_\source\repos\OSI_lab5_2.0\obj\Debug\netcoreapp3.1\OSI_lab5_2.0.csproj.CoreCompileInputs.cache
+C:\Users\miky_\source\repos\OSI_lab5_2.0\obj\Debug\netcoreapp3.1\OSI_lab5_2.0.dll
+C:\Users\miky_\source\repos\OSI_lab5_2.0\obj\Debug\netcoreapp3.1\OSI_lab5_2.0.pdb
+C:\Users\miky_\source\repos\OSI_lab5_2.0\obj\Debug\netcoreapp3.1\OSI_lab5_2.0.genruntimeconfig.cache
