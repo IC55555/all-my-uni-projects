@@ -1,0 +1,100 @@
+﻿  Analizator.cpp
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(17,23): error C2653: analizator: не является именем класса или пространства имен
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(18,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(19,2): error C2065: Words_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(20,2): error C2065: Num_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(21,2): error C2065: Letters_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(22,2): error C2065: Operations_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(23,2): error C2065: Opers_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(24,2): error C2065: Signs_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(42,1): warning C4508: analizator: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(45,34): error C2653: analizator: не является именем класса или пространства имен
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(45,54): error C2653: analizator: не является именем класса или пространства имен
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(49,5): error C2039: "num_table": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(49,5): error C2039: "num_chain": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(49,5): error C2039: "num": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(51,5): error C2039: "num_table": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(51,5): error C2039: "num_chain": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(51,5): error C2039: "num": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(54,25): error C2039: "num_table": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(58,3): error C2065: Operations_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(58,50): error C2039: "num": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(64,3): error C2065: Signs_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(64,41): error C2039: "num": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(72,3): error C2065: Words_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(72,45): error C2039: "num": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(77,3): error C2065: lexeme: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(77,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "tmp_l"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(77,10): error C2065: tmp_l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(78,3): error C2065: Ident_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(78,44): error C2039: "num_chain": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(78,55): error C2039: "num": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(78,57): error C2065: tmp_l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(79,13): error C2065: tmp_l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(84,3): error C2065: lexeme: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(84,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "tmp_l"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(84,10): error C2065: tmp_l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(85,3): error C2065: Const_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(85,44): error C2039: "num_chain": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(85,55): error C2039: "num": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(85,57): error C2065: tmp_l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(86,13): error C2065: tmp_l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(93,23): error C2653: analizator: не является именем класса или пространства имен
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(95,25): error C2065: filetoken: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(96,25): error C2065: errorfile: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(105,19): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(105,28): error C2065: next_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(110,37): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(111,7): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(111,32): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(124,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(124,78): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(147,32): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(171,6): error C2065: Ident_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(171,42): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(174,6): error C2065: lexeme: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(174,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "l"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(174,13): error C2065: l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(175,6): error C2065: Ident_table: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(175,47): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(175,55): error C2065: l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(176,10): error C2065: l: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(178,111): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(183,26): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(185,108): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(189,5): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(189,13): error C2065: next_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(191,23): error C2065: next_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(209,123): error C2065: cur_t: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(227,30): error C2653: analizator: не является именем класса или пространства имен
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(232,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(234,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(249,7): error C2039: "num_table": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(272,10): error C2039: "num_table": не является членом "tokens".
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.h(53): message : см. объявление "tokens"
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(314,31): error C2653: analizator: не является именем класса или пространства имен
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(317,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\translation_methods_3.1\Analizator.cpp(323,26): error C2653: analizator: не является именем класса или пространства имен
+  Source.cpp
+C:\Users\miky_\source\repos\translation_methods_3.1\Source.cpp(16,2): error C2065: analizator: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Source.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lex"
+C:\Users\miky_\source\repos\translation_methods_3.1\Source.cpp(16,13): error C2065: lex: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Source.cpp(17,15): error C2065: lex: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Source.cpp(20,3): error C2065: lex: необъявленный идентификатор
+C:\Users\miky_\source\repos\translation_methods_3.1\Source.cpp(21,3): error C2065: lex: необъявленный идентификатор
+  Создание кода...
