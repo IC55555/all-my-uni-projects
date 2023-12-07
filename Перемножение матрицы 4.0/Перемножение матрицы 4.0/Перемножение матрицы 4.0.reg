@@ -1,0 +1,17 @@
+﻿REGEDIT
+; Возможно, этот файл .REG используется программой установки.
+;   Если программа SETUP недоступна, записи, расположенные ниже, будут зарегистрированы
+;   в InitInstance автоматически с вызовом в
+;   CWinApp::RegisterShellFileTypes и COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\Перемножениематрицы40.Application = Перемножениематрицы40 Application
+
+
+HKEY_CLASSES_ROOT\Перемножениематрицы40.Application\CLSID = {7ebe73ec-1c3b-4cc1-9904-3fa0b76e6dd9}
+
+HKEY_CLASSES_ROOT\CLSID\{7ebe73ec-1c3b-4cc1-9904-3fa0b76e6dd9} = Перемножениематрицы40 Application
+HKEY_CLASSES_ROOT\CLSID\{7ebe73ec-1c3b-4cc1-9904-3fa0b76e6dd9}\ProgId = Перемножениематрицы40.Application
+
+
+HKEY_CLASSES_ROOT\CLSID\{7ebe73ec-1c3b-4cc1-9904-3fa0b76e6dd9}\LocalServer32 = Перемножение матрицы 4.0.EXE
