@@ -1,0 +1,20 @@
+!define BLANK ""
+C:\FRAN\test.obj : C:\FRAN\test.for .AUTODEPEND
+ @C:
+ cd C:\FRAN
+ wfc386 test.for -d2 -q -dep
+
+C:\FRAN\test.exe : C:\FRAN\test.obj .AUTODEPEND
+ @C:
+ cd C:\FRAN
+ @%write test.lk1 FIL test.obj
+ @%append test.lk1 
+!ifneq BLANK ""
+ *wlib -q -n -b test.imp 
+ @%append test.lk1 LIBR test.imp
+!endif
+!ifneq BLANK ""
+ @%append test.lk1 
+!endif
+ *wlink name test d all sys nt op m op maxe=25 op q op symf @test.lk1
+

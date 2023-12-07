@@ -1,0 +1,86 @@
+subroutine input
+common/storage/a,b,c,pi,x1,y1,x2,y2,x3,y3,s,m,cos,arccos
+read *, x1,y1,x2,y2,x3,y3
+a=sqrt((x2-x1)**2+(y2-y1)**2)
+b=sqrt((x3-x2)**2+(y3-y2)**2)
+c=sqrt((x3-x1)**2+(y3-y1)**2)
+end
+
+subroutine square
+common/storage/a,b,c,pi,x1,y1,x2,y2,x3,y3,s,m,cos,arccos
+real p
+p=(a+b+c)/2
+s=sqrt(p*(p-a)*(p-b)*(p-c))
+print *, 'S = ',s
+end
+
+subroutine arccosine
+common/storage/a,b,c,pi,x1,y1,x2,y2,x3,y3,s,m,cos,arccos
+m=min(a,b,c)
+if(a.eq.min)cos=(b**2+c**2-a**2)/(2*b*c)
+if(b.eq.min)cos=(a**2+c**2-b**2)/(2*a*c)
+if(c.eq.min)cos=(b**2+a**2-c**2)/(2*b*a)
+arccos=acos(cos)
+print *, 'arccos = ',arccos
+end
+
+subroutine cosine
+common/storage/a,b,c,pi,x1,y1,x2,y2,x3,y3,s,m,cos,arccos
+m=min(a,b,c)
+if(a.eq.min)cos=(b**2+c**2-a**2)/(2*b*c)
+if(b.eq.min)cos=(a**2+c**2-b**2)/(2*a*c)
+if(c.eq.min)cos=(b**2+a**2-c**2)/(2*b*a)
+print *, 'cos = ',cos
+end
+
+subroutine menu
+print *, '1) Write coordinates'
+print *, '2) Print S'
+print *, '3) Print smallest angle'
+print *, '4) Print cosine of a smallest angle'
+print *, '5) Exit'
+end
+
+program main
+common/storage/a,b,c,pi,x1,y1,x2,y2,x3,y3,s,m,cos,arccos
+pi=3.141592
+logical flag
+flag=0
+1 call menu
+read *, Ibutton
+select case (Ibutton)
+case (1)
+call input
+flag=1
+case (2)
+if(flag.eq.0)then
+print *, 'no input data'
+go to 1
+end if
+call square
+case (3)
+if(flag.eq.0)then
+print *, 'no input data'
+go to 1
+end if
+if(a.eq.0.or.b.eq.0.or.c.eq.0)then
+print *, 'incorrect input'
+go to 1
+end if
+call arccosine
+case (4)
+if(flag.eq.0)then
+print *, 'no input data'
+go to 1
+end if
+if(a.eq.0.or.b.eq.0.or.c.eq.0)then
+print *, 'incorrect input'
+go to 1
+end if
+call cosine
+case (5)
+go to 2
+end select
+go to 1
+2 end
+end

@@ -1,0 +1,21 @@
+!define BLANK ""
+C:\FRAN\lab1.obj : C:\FRAN\lab1.for .AUTODEPEND
+ @C:
+ cd C:\FRAN
+ wfc386 lab1.for -d2 -q -dep
+
+C:\FRAN\triangle.exe : C:\FRAN\lab1.obj .AUTODEPEND
+ @C:
+ cd C:\FRAN
+ @%write triangle.lk1 FIL lab1.obj
+ @%append triangle.lk1 
+!ifneq BLANK ""
+ *wlib -q -n -b triangle.imp 
+ @%append triangle.lk1 LIBR triangle.imp
+!endif
+!ifneq BLANK ""
+ @%append triangle.lk1 
+!endif
+ *wlink name triangle d all sys nt op m op maxe=25 op q op symf @triangle.lk&
+1
+

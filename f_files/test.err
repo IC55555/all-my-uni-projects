@@ -1,0 +1,3 @@
+test.for(2): *ERR* EN-01 missing END statement
+test.for(17): *ERR* SR-10 two main program units in the same file
+test.for: *ERR* SR-11 in FMAIN, only one unnamed PROGRAM is allowed in an executable program

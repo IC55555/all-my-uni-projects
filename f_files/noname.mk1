@@ -1,0 +1,20 @@
+!define BLANK ""
+C:\FRAN\lab1.obj : C:\FRAN\lab1.for .AUTODEPEND
+ @C:
+ cd C:\FRAN
+ wfc386 lab1.for -d2 -q -dep
+
+C:\FRAN\noname.exe : C:\FRAN\lab1.obj .AUTODEPEND
+ @C:
+ cd C:\FRAN
+ @%write noname.lk1 FIL lab1.obj
+ @%append noname.lk1 
+!ifneq BLANK ""
+ *wlib -q -n -b noname.imp 
+ @%append noname.lk1 LIBR noname.imp
+!endif
+!ifneq BLANK ""
+ @%append noname.lk1 
+!endif
+ *wlink name noname d all sys nt op m op maxe=25 op q op symf @noname.lk1
+

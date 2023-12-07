@@ -1,0 +1,46 @@
+lab1.for: *ERR* SV-02 in CALC_JACOBI, adjustable/assumed size array Y must be a dummy argument
+lab1.for: *ERR* SV-02 in CALC_GAUSS_SEIDEL, adjustable/assumed size array Y must be a dummy argument
+lab1.for(117): *ERR* PC-01 column 73, missing or misplaced closing parenthesis
+lab1.for(119): *ERR* PC-01 column 71, missing or misplaced closing parenthesis
+lab1.for(125): *ERR* PC-01 column 67, missing or misplaced closing parenthesis
+lab1.for(126): *ERR* SP-19 ENDDO statement does not match with IF statement
+lab1.for: *ERR* SV-02 in CALC_BLOCK_RELAXATION, adjustable/assumed size array Y must be a dummy argument
+lab1.for(188): *ERR* PC-01 column 69, missing or misplaced closing parenthesis
+lab1.for(240): *ERR* PC-01 column 70, missing or misplaced closing parenthesis
+lab1.for: *ERR* SV-02 in RESIDUAL, adjustable/assumed size array Y must be a dummy argument
+lab1.for(252): *ERR* PC-01 column 73, missing or misplaced closing parenthesis
+lab1.for(254): *ERR* TY-06 column 11, type of DI_UP has not been declared
+lab1.for(254): *ERR* TY-06 column 29, type of DI_CENTRAL has not been declared
+lab1.for(255): *ERR* TY-06 column 43, type of DI_DOWN has not been declared
+lab1.for(259): *ERR* PC-01 column 72, missing or misplaced closing parenthesis
+lab1.for(260): *ERR* SR-10 two main program units in the same file
+lab1.for(262): *ERR* PC-01 column 73, missing or misplaced closing parenthesis
+lab1.for(263): *ERR* TY-06 column 7, type of X has not been declared
+lab1.for(263): *ERR* SX-11 column 9, expecting statement function argument name
+lab1.for(263): *ERR* SR-09 column 12, subprogram recursion detected
+lab1.for(263): *ERR* TY-06 column 17, type of DI_CENTRAL has not been declared
+lab1.for(265): *ERR* TY-06 column 22, type of DI_DOWN has not been declared
+lab1.for(267): *ERR* ST-02 statement function definition appears after first executable statement
+lab1.for(267): *ERR* TY-06 column 7, type of Y has not been declared
+lab1.for(267): *ERR* SF-06 column 22, incorrect number of arguments passed to statement function X
+lab1.for(269): *ERR* TY-06 column 21, type of DI_UP has not been declared
+lab1.for: *ERR* SR-11 in FMAIN, only one unnamed PROGRAM is allowed in an executable program
+lab1.for(276): *ERR* TY-05 column 70, type of IND has already been established as INTEGER
+lab1.for(280): *ERR* TY-06 column 72, type of X has not been declared
+lab1.for(284): *ERR* PC-01 column 70, missing or misplaced closing parenthesis
+lab1.for(290): *ERR* PC-01 column 73, missing or misplaced closing parenthesis
+lab1.for(294): *ERR* PC-01 column 71, missing or misplaced closing parenthesis
+lab1.for(314): *ERR* PC-01 column 72, missing or misplaced closing parenthesis
+lab1.for(319): *ERR* TY-06 column 7, type of IND3 has not been declared
+lab1.for(320): *ERR* TY-06 column 7, type of IND4 has not been declared
+lab1.for(322): *ERR* TY-06 column 11, type of IND5 has not been declared
+lab1.for(326): *ERR* PC-01 column 71, missing or misplaced closing parenthesis
+lab1.for(330): *ERR* PC-01 column 71, missing or misplaced closing parenthesis
+lab1.for(334): *ERR* PC-01 column 71, missing or misplaced closing parenthesis
+lab1.for(341): *ERR* PC-01 column 73, missing or misplaced closing parenthesis
+lab1.for: *WRN* VA-07 in NEXT_ITER_BLOCK, IND5 has been used but not defined
+lab1.for: *WRN* VA-07 in NEXT_ITER_BLOCK, X has been used but not defined
+lab1.for: *WRN* VA-07 in NEXT_ITER_BLOCK, Y has been used but not defined
+lab1.for: *ERR* SV-02 in NEXT_ITER_BLOCK, adjustable/assumed size array Y must be a dummy argument
+lab1.for(407): *ERR* PC-01 column 70, missing or misplaced closing parenthesis
+lab1.for: *ERR* SV-02 in RESIDUAL_LU, adjustable/assumed size array Y must be a dummy argument
