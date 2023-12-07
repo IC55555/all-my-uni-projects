@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(729,11): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(915,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(919,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(925,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(981,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(990,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(997,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1015,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1033,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1048,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1132,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1163,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1177,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1193,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1230,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP4\Source.cpp(1307,21): warning C4018: <: несоответствие типов со знаком и без знака
+  EoMP4.vcxproj -> C:\Users\miky_\source\repos\EoMP4\Debug\EoMP4.exe

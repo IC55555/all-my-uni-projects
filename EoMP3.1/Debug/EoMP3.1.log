@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(549,16): warning C4101: gamma: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(549,10): warning C4101: lyam: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(581,11): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(743,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(746,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(751,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(799,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(806,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(812,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(827,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(842,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(854,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(933,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(960,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(971,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(984,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(1012,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(1023,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(1043,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3.1\Source.cpp(1054,21): warning C4018: <: несоответствие типов со знаком и без знака
+  EoMP3.1.vcxproj -> C:\Users\miky_\source\repos\EoMP3.1\Debug\EoMP3.1.exe

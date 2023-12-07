@@ -1,0 +1,31 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(216,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(217,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(218,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(219,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(220,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(221,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(222,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(247,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(248,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(249,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(250,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(251,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(252,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(253,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(276,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(277,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(278,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(279,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(280,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(281,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(282,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(305,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(312,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(320,12): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(322,12): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(331,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(648,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(650,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP1\Source.cpp(673,22): warning C4018: <: несоответствие типов со знаком и без знака
+  EoMP1.vcxproj -> C:\Users\miky_\source\repos\EoMP1\Debug\EoMP1.exe

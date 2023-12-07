@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(613,16): warning C4101: gamma: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(613,10): warning C4101: lyam: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(650,11): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(833,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(837,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(843,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(899,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(908,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(915,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(933,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(951,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(966,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1056,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1087,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1101,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1155,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1215,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1226,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1247,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miky_\source\repos\EoMP3\Source.cpp(1260,21): warning C4018: <: несоответствие типов со знаком и без знака
+  EoMP3.vcxproj -> C:\Users\miky_\source\repos\EoMP3\Debug\EoMP3.exe
