@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Grounding\Source.cpp(72,9): warning C4101: C: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\Grounding\Source.cpp(78,9): warning C4101: C: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\Grounding\Source.cpp(127,2): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\miky_\source\repos\Grounding\Source.cpp(261,9): warning C4101: C: неиспользованная локальная переменная
+C:\Users\miky_\source\repos\Grounding\Source.cpp(67): warning C4172: возвращение адреса локальной или временной переменной : C
+  Grounding.vcxproj -> C:\Users\miky_\source\repos\Grounding\Debug\Grounding.exe

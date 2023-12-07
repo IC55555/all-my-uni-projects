@@ -1,0 +1,140 @@
+Size of ethers03.bin: 1343 bytes
+
+
+Frame number: 1
+MAC destination: 00:90:27:A1:36:D0
+MAC source: 00:02:16:09:FA:40
+Frame type: IPv4
+Frame size: 118 bytes
+IP source: 81.181.78.206
+IP destination: 195.62.2.11
+
+
+Frame number: 2
+MAC destination: 00:02:16:09:FA:40
+MAC source: 00:90:27:A1:36:D0
+Frame type: IPv4
+Frame size: 118 bytes
+IP source: 195.62.2.11
+IP destination: 81.181.78.206
+
+
+Frame number: 3
+MAC destination: 00:02:16:09:FA:40
+MAC source: 00:0F:FE:B4:21:95
+Frame type: IPv4
+Frame size: 60 bytes
+IP source: 195.62.2.47
+IP destination: 205.188.1.194
+
+
+Frame number: 4
+MAC destination: 00:90:27:A1:36:D0
+MAC source: 00:02:16:09:FA:40
+Frame type: IPv4
+Frame size: 150 bytes
+IP source: 81.181.78.206
+IP destination: 195.62.2.11
+
+
+Frame number: 5
+MAC destination: 00:02:16:09:FA:40
+MAC source: 00:90:27:A1:36:D0
+Frame type: IPv4
+Frame size: 150 bytes
+IP source: 195.62.2.11
+IP destination: 81.181.78.206
+
+
+Frame number: 6
+MAC destination: 00:0F:FE:B4:21:95
+MAC source: 00:02:16:09:FA:40
+Frame type: IPv4
+Frame size: 60 bytes
+IP source: 205.188.1.194
+IP destination: 195.62.2.47
+
+
+Frame number: 7
+MAC destination: 00:90:27:A1:36:D0
+MAC source: 00:02:16:09:FA:40
+Frame type: IPv4
+Frame size: 118 bytes
+IP source: 81.181.78.206
+IP destination: 195.62.2.11
+
+
+Frame number: 8
+MAC destination: 00:90:27:A1:36:D0
+MAC source: 00:02:16:09:FA:40
+Frame type: IPv4
+Frame size: 66 bytes
+IP source: 81.181.78.206
+IP destination: 195.62.2.11
+
+
+Frame number: 9
+MAC destination: 00:02:16:09:FA:40
+MAC source: 00:90:27:A1:36:D0
+Frame type: IPv4
+Frame size: 66 bytes
+IP source: 195.62.2.11
+IP destination: 81.181.78.206
+
+
+Frame number: 10
+MAC destination: 00:90:27:A1:36:D0
+MAC source: 00:02:16:09:FA:40
+Frame type: IPv4
+Frame size: 74 bytes
+IP source: 81.181.78.206
+IP destination: 195.62.2.11
+
+
+Frame number: 11
+MAC destination: 00:02:16:09:FA:40
+MAC source: 00:90:27:A1:36:D0
+Frame type: IPv4
+Frame size: 78 bytes
+IP source: 195.62.2.11
+IP destination: 81.181.78.206
+
+
+Frame number: 12
+MAC destination: 00:02:16:09:FA:40
+MAC source: 00:90:27:A1:36:D0
+Frame type: IPv4
+Frame size: 66 bytes
+IP source: 195.62.2.11
+IP destination: 81.181.78.206
+
+
+Frame number: 13
+MAC destination: 00:90:27:A1:36:D0
+MAC source: 00:02:16:09:FA:40
+Frame type: IPv4
+Frame size: 66 bytes
+IP source: 81.181.78.206
+IP destination: 195.62.2.11
+
+
+Frame number: 14
+MAC destination: 00:90:27:A1:36:D0
+MAC source: 00:02:16:09:FA:40
+Frame type: IPv4
+Frame size: 66 bytes
+IP source: 81.181.78.206
+IP destination: 195.62.2.11
+
+
+Frame number: 15
+MAC destination: 00:02:16:09:FA:40
+MAC source: 00:90:27:A1:36:D0
+Frame type: IPv4
+Frame size: 87 bytes
+IP source: 195.62.2.11
+IP destination: 81.181.78.206
+
+
+IPV4: 15 ARP: 0 DIX: 0 RAW: 0 SNAP: 0 LLC: 0 
+total frame: 15
