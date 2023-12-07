@@ -1,0 +1,17 @@
+C:\Users\55555\source\repos\cube\obj\Debug\cube.csproj.AssemblyReference.cache
+C:\Users\55555\source\repos\cube\obj\Debug\cube.Form1.resources
+C:\Users\55555\source\repos\cube\obj\Debug\cube.Properties.Resources.resources
+C:\Users\55555\source\repos\cube\obj\Debug\cube.csproj.GenerateResource.cache
+C:\Users\55555\source\repos\cube\obj\Debug\cube.csproj.CoreCompileInputs.cache
+C:\Users\55555\source\repos\cube\bin\Debug\cube.exe.config
+C:\Users\55555\source\repos\cube\bin\Debug\cube.exe
+C:\Users\55555\source\repos\cube\bin\Debug\cube.pdb
+C:\Users\55555\source\repos\cube\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\55555\source\repos\cube\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\55555\source\repos\cube\bin\Debug\Microsoft.DirectX.dll
+C:\Users\55555\source\repos\cube\bin\Debug\Microsoft.DirectX.xml
+C:\Users\55555\source\repos\cube\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\55555\source\repos\cube\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\55555\source\repos\cube\obj\Debug\cube.csproj.CopyComplete
+C:\Users\55555\source\repos\cube\obj\Debug\cube.exe
+C:\Users\55555\source\repos\cube\obj\Debug\cube.pdb
