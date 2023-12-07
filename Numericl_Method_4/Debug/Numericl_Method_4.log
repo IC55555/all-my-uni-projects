@@ -1,0 +1,34 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(177,2): error C3861: Gauss: идентификатор не найден
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(206,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(218,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(220,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(222,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(233,22): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(236,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(237,24): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(241,12): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(242,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(242,18): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(243,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(253,20): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(253,41): error C2660: memcpy: функция не принимает 2 аргументов
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vcruntime_string.h(43,15): message : см. объявление "memcpy"
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(254,16): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(254,22): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(254,43): error C2660: memcpy: функция не принимает 2 аргументов
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vcruntime_string.h(43,15): message : см. объявление "memcpy"
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(255,16): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(270,12): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(271,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(271,18): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(272,8): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(380,13): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(381,7): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(381,15): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(382,7): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(385,7): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(393,7): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(393,16): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(396,5): error C2109: для индекса требуется массив или указатель
+C:\Users\miky_\source\repos\Numericl_Method_4\Source.cpp(405,13): error C2109: для индекса требуется массив или указатель

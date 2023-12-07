@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\miky_\source\repos\Numrical_simulation_(Runge-Kutta)\Source.cpp(25,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Numrical_simulation_(Runge-Kutta)\Source.cpp(48,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Numrical_simulation_(Runge-Kutta)\Source.cpp(72,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Numrical_simulation_(Runge-Kutta)\Source.cpp(97,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Numrical_simulation_(Runge-Kutta)\Source.cpp(117,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Numrical_simulation_(Runge-Kutta)\Source.cpp(134,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\miky_\source\repos\Numrical_simulation_(Runge-Kutta)\Source.cpp(195,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  Numrical_simulation_(Runge-Kutta).vcxproj -> C:\Users\miky_\source\repos\Numrical_simulation_(Runge-Kutta)\Debug\Numrical_simulation_(Runge-Kutta).exe
